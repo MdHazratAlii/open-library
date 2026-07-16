@@ -1,5 +1,5 @@
 -- =============================================================================
--- Library Pro — Complete Supabase Setup (single-file)
+-- Open Library Pro — Complete Supabase Setup (single-file)
 -- =============================================================================
 -- Run this ONE file in the Supabase SQL Editor on a fresh project to provision:
 --   • All tables (categories, books, students, book_issues, fines, user_roles)
